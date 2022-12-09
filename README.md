@@ -1,1 +1,2 @@
 # Stock-Performance
+Analysis of 5 stock ticker names using API in order to request stock data. Then using the csv module to write data and save it into a csv and looping through to get the dates and closing prices. Finally i use the csv file to generate reports on each stocks standard deviation then create a line graph using matplotlib. 
